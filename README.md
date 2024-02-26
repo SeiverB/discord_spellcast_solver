@@ -1,6 +1,6 @@
 # Discord Spellcast Solver
 
-### This Python command-line program solves for the biggest possible word in Discord's "Spellcast" game.
+This Python command-line program solves for the biggest possible word in Discord's "Spellcast" game.
 
 To run, install python3, and run solver_v2.py.
 
